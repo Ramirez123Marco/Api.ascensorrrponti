@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: proyecto.ponti.ProyectoAscensor.api.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.286 s - in proyecto.ponti.ProyectoAscensor.api.ApplicationTests
